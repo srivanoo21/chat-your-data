@@ -1,4 +1,4 @@
 my name is anoop.
 I work in data science.
 I live in india.
-I like machine learning. 
+I like machine learning.
